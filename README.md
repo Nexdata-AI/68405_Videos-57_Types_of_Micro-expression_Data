@@ -2,7 +2,7 @@
 
 # Description
 Micro-expression video data of more than 2,000 people, including Asian, Black, Caucasian and Brown; age includes under 18, 18-45, 46-60, and over 60; collection environment includes indoor scenes and outdoor scenes; it can be used in various scenes such as face recognition and expression recognition.
-For more details, please visit: https://www.nexdata.ai/datasets/1275?source=Github
+For more details, please visit:https://www.nexdata.ai/datasets/computervision/1275?source=Github
 
 # Specifications
 ## Data size
