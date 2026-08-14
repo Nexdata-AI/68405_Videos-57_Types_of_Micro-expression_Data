@@ -1,12 +1,13 @@
-# 68405_Videos-57_Types_of_Micro-expression_Data
+# 54415_Videos-57_Types_of_Micro-expression_Data
 
 # Description
-Micro-expression video data of more than 2,000 people, including Asian, Black, Caucasian and Brown; age includes under 18, 18-45, 46-60, and over 60; collection environment includes indoor scenes and outdoor scenes; it can be used in various scenes such as face recognition and expression recognition.
-For more details, please visit:https://www.nexdata.ai/datasets/computervision/1275?source=Github
+The 54,415 Videos – Micro-Expression Dataset provides 57 types of subtle facial expressions across diverse populations and environments. Including Asian, Black, Caucasian and Brown individuals; age includes under 18, 18-45, 46-60, and over 60; collection environment includes indoor scenes and outdoor scenes; it can be used in various scenes such as facial recognition, emotion recognition and nonverbal behavior analysis.
+
+For more details, please visit: https://www.nexdata.ai/datasets/computervision/1275?source=Github
 
 # Specifications
 ## Data size
-57 types, 68,405 videos
+57 types, 54,415 videos
 ## Race distribution
 Asian, Black, Caucasian, Brown
 ## Gender distribution
@@ -25,6 +26,7 @@ the video data format is .mp4
 collecting multiple micro-expression video data of different subjects
 ## Accuracy rate
 according to the accuracy of the acquisition action, the accuracy exceeds 97%; the accuracy of label annotation is over 97%
+
 
 # Licensing Information
 Commercial License
